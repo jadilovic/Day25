@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import GetRequestSetHeaders from './GetRequestSetHeaders';
+import PostRequest from './PostRequest';
 
 function App() {
   return (
     <div className="App">
-      <GetRequestSetHeaders />
+      <PostRequest />
     </div>
   );
 }
